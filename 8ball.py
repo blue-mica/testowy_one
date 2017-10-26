@@ -1,3 +1,5 @@
+'''Import kodu, refaktoring z wcześniejszej wersji Pythona do 3.6. zmiana funkcji raw_input -> input
+dodanie nowych odpowiedzi; rozszeżenie zakresu odpowiedzi (line 12)'''
 # Import the modules
 import sys
 import random
