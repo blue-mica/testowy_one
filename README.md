@@ -6,8 +6,8 @@ Basic useful feature list:
 
  * Total chaos - Chaos (gr. Χάος Cháos, łac. Chaos ‘pustka’)
  * First signs of...
- * Li
- * File contents are saved in the URL so you can share files
+ * List making
+ * Even URL came by ;)
 
 This is [chaos picture](http://www.crystalinks.com/ChaosGreekMythology3.jpg) I like it so much I want a T-shirt with it!! ;D
 
